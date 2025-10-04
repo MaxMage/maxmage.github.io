@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "id": "sku-123",
+      "title": "Demo Mug",
+      "description": "Stoneware mug, 350ml",
+      "price": {"value": 12.90, "currency": "USD"},
+      "availability": "in_stock",
+      "link": "https://exploitative-myong-deflagrable.ngrok-free.dev/demo-mug.html",
+      "image_link": "https://exploitative-myong-deflagrable.ngrok-free.dev/media/catalog/product/i/m/images.jpeg"
+    }
+  ]
+}
